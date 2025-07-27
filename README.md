@@ -4,6 +4,10 @@ This project is a modern, responsive frontend built for **KlipAi**, a Web3 smart
 
 ---
 
+# Important Note:
+
+This page is designed for light mode (for desktop and mobile) please refer light mode for better understanding.
+
 ## 🚀 Setup & Installation
 
 ### Prerequisites
